@@ -1,79 +1,51 @@
-[16:04:40] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.4
-[16:04:40] [main/INFO]: Loading 4 mods:
+[16:20:17] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.4
+[16:20:17] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.4
 	   \-- mixinextras 0.4.1
 	- java 17
 	- minecraft 1.20.1
-[16:04:40] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/minecraft/data/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[16:04:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:04:50] [main/INFO]: Loaded 7 recipes
-[16:04:50] [main/INFO]: Loaded 1271 advancements
-[16:04:51] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[16:04:51] [Server thread/INFO]: Loading properties
-[16:04:51] [Server thread/INFO]: Default game type: SURVIVAL
-[16:04:51] [Server thread/INFO]: Generating keypair
-[16:04:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:04:52] [Server thread/INFO]: Using epoll channel type
-[16:04:52] [Server thread/INFO]: Preparing level "world"
-[16:05:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:09] [Server thread/INFO]: Time elapsed: 8069 ms
-[16:05:09] [Server thread/INFO]: Done (17.093s)! For help, type "help"
-[16:06:03] [User Authenticator #1/INFO]: UUID of player MR_sticky_piston is 1df745e7-4c67-415a-8bce-7c55dadf5722
-[16:06:03] [Server thread/INFO]: MR_sticky_piston[/127.2.245.186:56999] logged in with entity id 358 at (-10.239761564233323, 69.0, -60.96159371673235)
-[16:06:03] [Server thread/INFO]: MR_sticky_piston joined the game
-[16:06:59] [Server thread/INFO]: MR_sticky_piston lost connection: Disconnected
-[16:06:59] [Server thread/INFO]: MR_sticky_piston left the game
-[16:08:20] [User Authenticator #2/INFO]: UUID of player MR_sticky_piston is 1df745e7-4c67-415a-8bce-7c55dadf5722
-[16:08:20] [Server thread/INFO]: MR_sticky_piston[/127.2.245.186:33151] logged in with entity id 655 at (-61.69999998807907, 67.0, -34.58227378046297)
-[16:08:20] [Server thread/INFO]: MR_sticky_piston joined the game
-[16:10:23] [Server thread/INFO]: [MR_sticky_piston: Set own game mode to Creative Mode]
-[16:12:19] [User Authenticator #3/INFO]: UUID of player SkyExploreWT is 9f3f7806-14ad-4956-9f71-c47c9b4e51eb
-[16:12:19] [Server thread/INFO]: SkyExploreWT[/127.114.153.193:38175] logged in with entity id 2133 at (-18.5, 65.0, -46.5)
-[16:12:19] [Server thread/INFO]: SkyExploreWT joined the game
-[16:12:50] [Server thread/INFO]: <SkyExploreWT> hey
-[16:12:54] [Server thread/INFO]: <MR_sticky_piston> hi
-[16:13:01] [Server thread/INFO]: [MR_sticky_piston: Teleported MR_sticky_piston to SkyExploreWT]
-[16:13:19] [Server thread/INFO]: <MR_sticky_piston> what server did you come from
-[16:13:22] [Server thread/INFO]: <SkyExploreWT> Pojavlauncher is shit but nevermind
-[16:13:30] [Server thread/INFO]: <SkyExploreWT> is a dev
-[16:13:32] [Server thread/INFO]: <MR_sticky_piston> nah its very good
-[16:14:04] [Server thread/INFO]: [MR_sticky_piston: Set SkyExploreWT's game mode to Creative Mode]
-[16:14:28] [Server thread/INFO]: <MR_sticky_piston> ig its possible
-[16:14:33] [Server thread/INFO]: <SkyExploreWT> what is this server for ?
-[16:14:39] [Server thread/INFO]: <MR_sticky_piston> existing
-[16:14:47] [Server thread/INFO]: <MR_sticky_piston> just do whatever you want
-[16:14:49] [Server thread/INFO]: <SkyExploreWT> interesting
-[16:15:06] [Server thread/INFO]: <MR_sticky_piston> its just made to prove the point that i can host a server on hugging face
-[16:15:24] [Server thread/INFO]: [MR_sticky_piston: Teleported MR_sticky_piston to SkyExploreWT]
-[16:15:48] [Server thread/INFO]: <SkyExploreWT> I need to leave but in will comeback later
-[16:15:53] [Server thread/INFO]: SkyExploreWT lost connection: Disconnected
-[16:15:53] [Server thread/INFO]: SkyExploreWT left the game
-[16:15:54] [Server thread/INFO]: <MR_sticky_piston> ok
-[16:19:55] [Server thread/INFO]: [MR_sticky_piston: Stopping the server]
-[16:19:55] [Server thread/INFO]: Stopping server
-[16:19:55] [Server thread/INFO]: Saving players
-[16:19:55] [Server thread/INFO]: MR_sticky_piston lost connection: Server closed
-[16:19:55] [Server thread/INFO]: MR_sticky_piston left the game
-[16:19:55] [Server thread/INFO]: Saving worlds
-[16:19:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:20:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:20:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:20:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:20:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:20:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:20:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:20:17] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/minecraft/data/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[16:20:28] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:20:31] [main/INFO]: Loaded 7 recipes
+[16:20:31] [main/INFO]: Loaded 1271 advancements
+[16:20:32] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[16:20:32] [Server thread/INFO]: Loading properties
+[16:20:32] [Server thread/INFO]: Default game type: SURVIVAL
+[16:20:32] [Server thread/INFO]: Generating keypair
+[16:20:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:20:32] [Server thread/INFO]: Using epoll channel type
+[16:20:33] [Server thread/INFO]: Preparing level "world"
+[16:20:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:20:51] [Server thread/INFO]: Time elapsed: 7806 ms
+[16:20:51] [Server thread/INFO]: Done (18.395s)! For help, type "help"
+[16:22:08] [User Authenticator #1/INFO]: UUID of player MR_sticky_piston is 1df745e7-4c67-415a-8bce-7c55dadf5722
+[16:22:09] [Server thread/INFO]: MR_sticky_piston[/127.2.245.186:43719] logged in with entity id 216 at (-10.086515585772846, 75.34027225508677, 47.77685767875486)
+[16:22:09] [Server thread/INFO]: MR_sticky_piston joined the game
+[16:33:03] [Server thread/INFO]: [MR_sticky_piston: Stopping the server]
+[16:33:03] [Server thread/INFO]: Stopping server
+[16:33:03] [Server thread/INFO]: Saving players
+[16:33:03] [Server thread/INFO]: MR_sticky_piston lost connection: Disconnected
+[16:33:03] [Server thread/INFO]: MR_sticky_piston left the game
+[16:33:03] [Server thread/INFO]: Saving worlds
+[16:33:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:33:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:33:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:33:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:33:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:33:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:33:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
