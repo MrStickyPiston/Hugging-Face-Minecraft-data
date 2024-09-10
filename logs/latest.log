@@ -1,76 +1,25 @@
-[16:34:56] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.4
-[16:34:56] [main/INFO]: Loading 4 mods:
-	- fabricloader 0.16.4
-	   \-- mixinextras 0.4.1
-	- java 17
-	- minecraft 1.20.1
-[16:34:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/minecraft/data/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[16:35:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:35:14] [main/INFO]: Loaded 7 recipes
-[16:35:14] [main/INFO]: Loaded 1271 advancements
-[16:35:15] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[16:35:15] [Server thread/INFO]: Loading properties
-[16:35:15] [Server thread/INFO]: Default game type: SURVIVAL
-[16:35:15] [Server thread/INFO]: Generating keypair
-[16:35:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:35:16] [Server thread/INFO]: Using epoll channel type
-[16:35:16] [Server thread/INFO]: Preparing level "world"
-[16:35:27] [User Authenticator #1/INFO]: UUID of player MR_sticky_piston is 1df745e7-4c67-415a-8bce-7c55dadf5722
-[16:35:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:35:41] [Server thread/INFO]: Time elapsed: 13718 ms
-[16:35:41] [Server thread/INFO]: Done (24.978s)! For help, type "help"
-[16:35:41] [Server thread/INFO]: MR_sticky_piston[/127.2.245.186:33167] logged in with entity id 190 at (13.525871456792, 71.02637281966011, 62.58533381327829)
-[16:35:42] [Server thread/INFO]: MR_sticky_piston joined the game
-[16:35:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[16:35:53] [Server thread/INFO]: MR_sticky_piston lost connection: Disconnected
-[16:35:53] [Server thread/INFO]: MR_sticky_piston left the game
-[17:02:01] [User Authenticator #2/INFO]: UUID of player MR_sticky_piston is 1df745e7-4c67-415a-8bce-7c55dadf5722
-[17:02:01] [Server thread/INFO]: MR_sticky_piston[/127.2.245.186:37767] logged in with entity id 303 at (11.628147992123344, 87.14570475619712, 67.35491880050981)
-[17:02:02] [Server thread/INFO]: MR_sticky_piston joined the game
-[17:04:03] [Server thread/INFO]: MR_sticky_piston has made the advancement [Monster Hunter]
-[17:15:38] [IO-Worker-35/INFO]: Flushed metrics to /tmp/minecraft-profiling2731273939195238092/server/metrics/mailboxes.csv
-[17:15:38] [IO-Worker-35/INFO]: Flushed metrics to /tmp/minecraft-profiling2731273939195238092/server/metrics/jvm.csv
-[17:15:38] [IO-Worker-35/INFO]: Flushed metrics to /tmp/minecraft-profiling2731273939195238092/server/metrics/ticking.csv
-[17:15:38] [IO-Worker-35/INFO]: Flushed metrics to /tmp/minecraft-profiling2731273939195238092/server/metrics/cpu.csv
-[17:15:38] [IO-Worker-35/INFO]: Flushed metrics to /tmp/minecraft-profiling2731273939195238092/server/metrics/event-loops.csv
-[17:15:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5407ms or 108 ticks behind
-[17:15:43] [IO-Worker-35/INFO]: Compressed to debug/profiling/2024-09-09_17_15_43-world-1_20_1.zip
-[17:39:48] [Server thread/INFO]: [MR_sticky_piston: Stopping the server]
-[17:39:48] [Server thread/INFO]: Stopping server
-[17:39:48] [Server thread/INFO]: Saving players
-[17:39:48] [Server thread/INFO]: MR_sticky_piston lost connection: Disconnected
-[17:39:48] [Server thread/INFO]: MR_sticky_piston left the game
-[17:39:48] [Server thread/INFO]: Saving worlds
-[17:39:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:39:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:39:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:39:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:39:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:39:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:39:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:33:11] [User Authenticator #1/INFO]: UUID of player MR_sticky_piston is 1df745e7-4c67-415a-8bce-7c55dadf5722
+[07:33:11] [Server thread/INFO]: MR_sticky_piston[/127.73.46.227:53005] logged in with entity id 134 at (36.10800974123169, 69.1163454650384, 165.18896000555105)
+[07:33:11] [Server thread/INFO]: MR_sticky_piston joined the game
+[07:33:25] [Server thread/WARN]: MR_sticky_piston moved too quickly! -2.88075647000543,0.0,-9.769611820365327
+[07:36:00] [Server thread/INFO]: MR_sticky_piston lost connection: Disconnected
+[07:36:00] [Server thread/INFO]: MR_sticky_piston left the game
+[07:37:12] [User Authenticator #2/INFO]: UUID of player MR_sticky_piston is 1df745e7-4c67-415a-8bce-7c55dadf5722
+[07:37:12] [Server thread/INFO]: MR_sticky_piston[/127.73.46.227:37173] logged in with entity id 1158 at (13.300000011920929, 65.2772599682196, 64.69999998807907)
+[07:37:12] [Server thread/INFO]: MR_sticky_piston joined the game
+[07:37:28] [Server thread/INFO]: MR_sticky_piston lost connection: Disconnected
+[07:37:28] [Server thread/INFO]: MR_sticky_piston left the game
+[07:38:34] [User Authenticator #3/INFO]: UUID of player MR_sticky_piston is 1df745e7-4c67-415a-8bce-7c55dadf5722
+[07:38:34] [Server thread/INFO]: MR_sticky_piston[/127.73.46.227:52117] logged in with entity id 1261 at (11.779095456280356, 65.2772599682196, 64.24570088342522)
+[07:38:34] [Server thread/INFO]: MR_sticky_piston joined the game
+[07:41:53] [Server thread/INFO]: [MR_sticky_piston: Stopping the server]
+[07:41:53] [Server thread/INFO]: Stopping server
+[07:41:53] [Server thread/INFO]: Saving players
+[07:41:53] [Server thread/INFO]: Saving worlds
+[07:41:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:41:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:41:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:41:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:41:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:41:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:41:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
